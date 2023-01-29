@@ -7,3 +7,4 @@
  */
 module demo {
 }
+int y = 100; 
